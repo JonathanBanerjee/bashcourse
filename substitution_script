@@ -1,0 +1,6 @@
+#!/bin/bash
+time=$(date +%H:%M:%S)
+year=$(date +%Y)
+echo "Hello $USER, the time right now is $time"
+echo "And the year is $year"
+
