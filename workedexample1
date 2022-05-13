@@ -1,0 +1,4 @@
+#!/bin/bash
+name="simon.smith"
+out="output.txt"
+
